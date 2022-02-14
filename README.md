@@ -1,0 +1,2 @@
+# StudidMC_Translate_CH
+辉夜星瞳Minecraft的沙雕翻译包
