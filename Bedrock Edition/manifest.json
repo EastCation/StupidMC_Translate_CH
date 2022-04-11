@@ -1,0 +1,19 @@
+{
+   "format_version" : 1,
+   "header" : {
+      "description" : "東暘离子制作，针对Windows 10版做了一些阉割 Twilight Tech Studio use GNU-GPL 3.0软件许可协议",
+      "name" : "EastCation_resource_v1.8.1",
+      "platform_locked" : false,
+      "uuid" : "bc2a0bc9-e3a2-4702-9319-d4d3231dfdbc",
+      "version" : [ 10, 19042, 546 ]
+   },
+   "min_engine_version" : [ 0, 0, 1, 1, 2, 5 ],
+   "modules" : [
+      {
+         "description" : "Pack",
+         "type" : "resources",
+         "uuid" : "891f5751-bb0e-47c6-91f0-fdc4e76949ef",
+         "version" : [ 10, 19042, 546 ]
+      }
+   ]
+}
