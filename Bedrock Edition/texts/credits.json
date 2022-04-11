@@ -1,0 +1,194 @@
+[
+    {
+        "section": "Minecraft 制作人员名单",
+        "titles": [
+            {
+                "title": "制作",
+                "names": [
+                    "马库斯 佩尔松"
+                ]
+            },
+            {
+                "title": "游戏设计, 程序及图像:",
+                "names": [
+                    "马库斯 佩尔松",
+					"Jens Bergensten (Jeb)",
+					"内森 亚当斯（Nathan Adams）"
+                ]
+            },
+			{
+                "title": "编程:",
+                "names": [
+                    "埃里克 布鲁斯"
+                ]
+            },
+			{
+                "title": "音乐以及音效:",
+                "names": [
+                    "丹尼尔 罗森菲尔德 (C418)",
+					"莉娜 雷恩"
+                ]
+            },
+			{
+                "title": "游戏艺术和绘画:",
+                "names": [
+                    "克里斯托弗 泽特斯特兰德"
+                ]
+            },
+			{
+                "title": "终末之诗原版:",
+                "names": [
+                    "朱利安 高夫"
+                ]
+            },
+			{
+                "title": "网络上的发展:",
+                "names": [
+                    "Tobias Möllstam",
+					"丹尼尔 弗里斯克",
+					"伦纳德 阿克塞尔森",
+					"Jens Bergensten (Jeb)",
+					"马库斯 佩尔松"
+                ]
+            },
+			{
+                "title": "徽标和促销艺术品:",
+                "names": [
+                    "马库斯 托沃宁"
+                ]
+            },
+			{
+                "title": "商业及管理:",
+                "names": [
+                    "卡尔 曼尼",
+					"丹尼尔 卡普兰"
+                ]
+            },
+			{
+                "title": "导演乐趣:",
+                "names": [
+                    "莉迪亚 温特斯"
+                ]
+            },
+			{
+                "title": "数字处理和统计:",
+                "names": [
+                    "帕特里克 格德尔"
+                ]
+            },
+			{
+                "title": "附加编程:",
+                "names": [
+                    "保罗 斯普纳",
+					"Ryan 'Scaevolus' Hitchman",
+					"Elliot 'Hippoplatimus' Segal"
+                ]
+            },
+			{
+                "title": "mojang的开发商:",
+                "names": [
+                    "约翰 奥拉特（约翰 扎克）",
+					"肯特 克里斯蒂安 詹森",
+					"丹 罗克"
+                ]
+            },
+			{
+                "title": "使用的技术:",
+                "names": [
+                    "Oracle的Java",
+					"LWJGL by many talented people",
+					"Paul Lamb的“3D音效系统”",
+					"JCraft的JOrbis"
+                ]
+            }
+		]
+	},
+	{
+		
+
+        "section": "辉夜星瞳 制作人员名单",
+        "titles": [
+            {
+                "title": "策划:",
+                "names": [
+                    "東暘离子"
+                ]
+            },
+			{
+                "title": "脚本:",
+                "names": [
+                    "東暘离子"
+                ]
+            },
+			{
+                "title": "服务器管理:",
+                "names": [
+                    "初雪姐姐",
+					"赤羽(Medium5)",
+					"诗岸(Medium5)"
+                ]
+            },
+			{
+                "title": "绘图:",
+                "names": [
+                    "崔耀"
+                ]
+            },
+			{
+                "title": "技术:",
+                "names": [
+                    "東暘离子",
+					"陈宽带",
+					"铁镐上的方天一(Baoding BGP School)"	
+                ]
+            },
+			{
+                "title": "计算机:",
+                "names": [
+                    "家郡",
+					"刘逍"
+                ]
+            },
+			{
+                "title": "音乐:",
+                "names": [
+                    "星尘(Medium5)",
+					"Minus(Medium5)",
+					"Infinity(Medium5)",
+					"東暘离子"
+                ]
+            },
+			{
+                "title": "特别感谢:",
+                "names": [
+                    "六芒星镜像组",
+					"保定市物探中心学校",
+					"基岩版仙山云都服务器",
+					"五维介质·星尘",
+					"五维介质·Minus",
+					"五维介质·海伊",
+					"五维介质·赤羽",
+					"暮光六计算机",
+					"隔壁PCL2启动器",
+					"澜舟云服务器",
+					"还有腐竹真境",
+					"PLAYERNAME"
+                ]
+            },
+			{
+                "title": "其他:",
+                "names": [
+                    "网站：https://eastcation.github.io",
+					"服务器 [2a02:180:6:1::5013]:19133(Bedrock Only,IPv6 only)"
+                ]
+            }
+		]
+	},
+	{
+        "section": "“Twilight”、“東暘离子”、“辉夜星瞳”、“六芒星镜像组”、“暮光六计算机”，©Twilight Tech Studio 2013-2022"
+	}
+  ]
+ 
+ 
+ 
+ 
